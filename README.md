@@ -26,7 +26,7 @@ composer require kirti/wordpress-nonce:dev-master
 
 ### Another way
 
-1. Download the [latest zip](https://github.com/kirtibhat001/wordpress-nonce/new/master.zip) of this repo.
+1. Download the [latest zip](https://github.com/kirtibhat001/wordpress-nonce/archive/master.zip) of this repo.
 2. Unzip the master.zip file.
 3. Copy and paste it into the root of your plugin directory.
 4. Continue with your project.
